@@ -6,7 +6,7 @@
 # Go into virtual environment
 Create virtual environment
 ```
-python -m env
+python -m venv env
 ```
 To run poweshell script
 ```
