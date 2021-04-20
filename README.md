@@ -1,6 +1,8 @@
-# FlaskNoteTutorial
+# FlaskNoteApp
 
+App allows user to authenticate/sign up and create note'es
 
+Application created by following tutorial https://www.youtube.com/watch?v=dam0GPOAvVI
 
 
 # Go into virtual environment
